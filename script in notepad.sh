@@ -6,7 +6,7 @@
 #rsync -av /home/admin/desktop/nginxconf.txt /etc/nginx/sites-available/$domein.conf
 
 #sudo password = P@ssw0rd
-
+echo "hallo" 
 while true 
 
 do 
